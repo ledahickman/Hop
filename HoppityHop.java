@@ -9,15 +9,15 @@ public class HoppityHop
          number++;
             if(number % 15 == 0)
                {
-               System.out.println("Hoppity Hop");     
+               System.out.println("Hoppity Hop, GIT");     
                }       
             else if(number % 3 == 0)
                 {
-                 System.out.println("Hoppity");
+                 System.out.println("Hoppity, GIT");
                 }
             else if(number % 5 == 0)
                 {
-                 System.out.println("Hop");
+                 System.out.println("Hop, owww ya, I'm using GIT");
                 }
             else
                {
